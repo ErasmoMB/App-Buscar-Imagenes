@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App-Buscar-Imagenes/static/css/main.e6c13ad2.css",
+    "main.js": "/App-Buscar-Imagenes/static/js/main.10d9a093.js",
+    "static/js/787.88526d96.chunk.js": "/App-Buscar-Imagenes/static/js/787.88526d96.chunk.js",
+    "index.html": "/App-Buscar-Imagenes/index.html",
+    "main.e6c13ad2.css.map": "/App-Buscar-Imagenes/static/css/main.e6c13ad2.css.map",
+    "main.10d9a093.js.map": "/App-Buscar-Imagenes/static/js/main.10d9a093.js.map",
+    "787.88526d96.chunk.js.map": "/App-Buscar-Imagenes/static/js/787.88526d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10d9a093.js"
+  ]
+}
